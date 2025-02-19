@@ -1,4 +1,4 @@
-roject Name: JavaScript DOM Manipulation Basics
+Project Name: JavaScript DOM Manipulation Basics
 
 Description:
 This project demonstrates the basics of DOM (Document Object Model) manipulation using JavaScript. It includes:

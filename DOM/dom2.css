@@ -1,0 +1,26 @@
+/* Styling the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Styling the headings */
+h1 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.heading {
+    color: #007bff;
+    font-weight: bold;
+}
+
+/* Styling the paragraph */
+#new1 {
+    color: #28a745;
+    font-size: 18px;
+    font-style: italic;
+}
